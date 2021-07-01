@@ -1,3 +1,3 @@
 test('true is equal to true', () => {
-  expect(true).toBe(true)  ;
+  expect(true).toBe(false)  ;
 });
